@@ -1,0 +1,3 @@
+Para instalar el sistema de auntenticacion de laravel se utila el siguiente comando:
+
+composer require laravel/ui 
